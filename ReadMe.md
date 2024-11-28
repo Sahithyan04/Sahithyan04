@@ -1,14 +1,14 @@
-![Sahith's Banner]([https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg])
+![Sahith's Banner](https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science;+DIY+Learner" alt="Typing SVG"/>
 </p>
 
 
 ## > Hi, I'm Sahithyan M 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
+    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer " width="3000" height="60"/>
 </p>
 
 
