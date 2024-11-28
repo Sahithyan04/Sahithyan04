@@ -1,92 +1,84 @@
-<div align="center">
-<img src="https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg" align="center" style="width: 100%" />
-</div>  
-  
+![Sahith's Banner]([(https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg)])
 
-### <div align="center">Hi, I'm Sahithyan 👋</div>  
-  
-
-- Just a curious guy who loves exploring new technology!  
-  
-
-- 🌱 I’m currently learning Java   
-  
-
-<br/>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught" alt="Typing SVG"/>
+</p>
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## > Hi, I'm Sahithyan M 👋
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
+</p>
 
 
+- 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
+- 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
+- 🌐 **Platforms**: Web, Mobile, CLI, Linux
+- ⚙️ **Top Tech Stacks**: Java, Python, C Language, 
+- 🛠️ **Skills**: Full Stack Development, Research & Development, Git
+- 🌏 **Languages**: Tamil, English
+- 💻 **Hobbies**: Tinkering with Electronics
 
-</td><td valign="top" width="33%">
+## 📊 GitHub Stats
 
+<div align="center" style="display: flex; justify-content: space-around;">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahithyan04&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 
-### Backend  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithyan04&layout=compact&hide_border=true&theme=chartreuse-dark&v=20241128123623" alt="Top Langs" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahithyan04&theme=chartreuse-dark&hide_border=true&show_icons=true&v=20241128123623" alt="Sahithyan's GitHub stats" />
+
 </div>
 
-</td><td valign="top" width="33%">
+
+<!-- Contribution Graph -->
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahithyan04&theme=github-compact&v=20241128123623)
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+<!-- Tech Stack -->
+## 💻 Tech Stack
 
-</td></tr></table>  
+## Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Sahithyan04" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sahithyanm" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+## Libraries & Frameworks
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=%23white) 
+![Mediapipe](https://img.shields.io/badge/Mediapipe-%23000000.svg?style=for-the-badge&logo=mediapipe&logoColor=%23white) 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sahithyan04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+### Tools & Services
 
-<br/>  
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sahithyan04&theme=monokai&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Recent Blog Posts  
-  
+<!-- Holopin Badges -->
+## 📛 Holopin Badges
+[![An image of @SubashSK777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Sahithyan04)](https://holopin.io/@Sahithyan04)
 
-<br/>  
+<!-- Socials -->
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sahithyanm) 
+ 
 
-  
+<!-- Random Dev Quote -->
+### ✍️ Random Dev Quote
 
-<br/>  
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
 
-  
+<hr/>
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- Status -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sahithyan04)
+![GitHub Last commit](https://img.shields.io/github/last-commit/Sahithyan04/Sahithyan04)
