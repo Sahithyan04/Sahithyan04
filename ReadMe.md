@@ -1,4 +1,4 @@
-![Sahith's Banner]([(https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg)])
+![Sahith's Banner]([https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg])
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught" alt="Typing SVG"/>
@@ -64,8 +64,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sahithyan04&theme=monokai&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Holopin Badges -->
-## 📛 Holopin Badges
-[![An image of @SubashSK777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Sahithyan04)](https://holopin.io/@Sahithyan04)
 
 <!-- Socials -->
 ## 🌐 Socials
