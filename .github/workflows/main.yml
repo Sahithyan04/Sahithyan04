@@ -18,7 +18,8 @@ jobs:
           TIMESTAMP=$(date +"%Y%m%d%H%M%S")
           
           # Replace timestamp in README.md
-          sed -i "s/v=[0-9]*/v=$TIMESTAMP/g" README.md
+          sed -i'' "s/v=[0-9]*/v=$TIMESTAMP/g" README.md
+
 
       - name: Commit Changes
         run: |
