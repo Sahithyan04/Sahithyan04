@@ -68,7 +68,8 @@
 <!-- Socials -->
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sahithyanm) 
- 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/sahithyan316/)
+
 
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
