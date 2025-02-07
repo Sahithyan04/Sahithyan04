@@ -24,7 +24,8 @@
 
 <div align="center" style="display: flex; justify-content: space-around;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahithyan04&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahithyan04&theme=chartreuse-dark&hide_border=true)
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithyan04&layout=compact&hide_border=true&theme=chartreuse-dark&v=20250207010429" alt="Top Langs" />
 
