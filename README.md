@@ -24,7 +24,7 @@
 
 <div align="center" style="display: flex; justify-content: space-around;">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sahithyan04&theme=chartreuse-dark&hide_border=true)
+ [![GitHub Streak](https://github-readme-streak-stats-wine-sigma.vercel.app?user=Sahithyan04&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 
 
