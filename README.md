@@ -11,7 +11,7 @@
    <img 
   src="https://img.shields.io/badge/Self--Taught_DevOps_+_Cloud_Enthusiast-007FFF?style=for-the-badge&amp;logoColor=white" 
   alt="Self-Taught DevOps + Cloud Enthusiast" 
-  width="700" 
+  width="1000" 
   height="60" 
 />
 </p>
