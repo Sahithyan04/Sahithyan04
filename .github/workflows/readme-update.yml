@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual triggering if needed
+    - cron: "0 0 * * *" #  30 minutes timer 
+  workflow_dispatch:  #  manual triggering if needed welse auto triger
 
 jobs:
   update-readme:
