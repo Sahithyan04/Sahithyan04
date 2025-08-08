@@ -8,7 +8,12 @@
 ## > Hi, I'm Sahithyan M 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Self--Taught_Programmer_%26_-007FFF?style=for-the-badge&logoColor=white" alt="Self-Taught DevOps + Cloud Enthusiast " width="3000" height="60"/>
+   <img 
+  src="https://img.shields.io/badge/Self--Taught_DevOps_+_Cloud_Enthusiast-007FFF?style=for-the-badge&amp;logoColor=white" 
+  alt="Self-Taught DevOps + Cloud Enthusiast" 
+  width="500" 
+  height="60" 
+/>
 </p>
 
 
