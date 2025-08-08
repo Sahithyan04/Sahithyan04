@@ -8,16 +8,16 @@
 ## > Hi, I'm Sahithyan M 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Self--Taught_Programmer_%26_Tinkerer-007FFF?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer " width="3000" height="60"/>
+    <img src="https://img.shields.io/badge/Self--Taught_Programmer_%26_-007FFF?style=for-the-badge&logoColor=white" alt="Self-Taught DevOps + Cloud Enthusiast " width="3000" height="60"/>
 </p>
 
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
-- 🌐 **Platforms**: Web, Mobile, CLI, Linux
-- ⚙️ **Top Tech Stacks**: Java, Python, C Language, 
-- 🛠️ **Skills**: Full Stack Development, Research & Development, Git
-- 🌏 **Languages**: Tamil, English
+- 🌐 **Platforms**: Linux, CLI , Web, Mobile 
+- ⚙️ **Top Tech Stacks**: Python, Java, C Language, AWS, VPS, Docker, Git, Scripting 
+- 🛠️ **Skills**: DevOps, Cloud, Research & Development, Automation, Deployment 
+- 🌏 **Languages**: English, Tamil 
 - 💻 **Hobbies**: Tinkering with Electronics
 
 ## 📊 GitHub Stats
