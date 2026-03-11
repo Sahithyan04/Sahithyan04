@@ -1,8 +1,6 @@
 ![Sahith's Banner](https://github.com/Sahithyan04/Sahithyan04/blob/main/hi.jpg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science;+DIY+Learner" alt="Typing SVG"/>
-</p>
+
 
 
 ## > Hi, I'm Sahithyan M 👋
@@ -17,10 +15,9 @@
 </p>
 
 
-- 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
-- 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
+
 - 🌐 **Platforms**: Linux, CLI , Web, Mobile 
-- ⚙️ **Top Tech Stacks**: Python, Java, C Language, AWS, VPS, Docker, Git, Scripting 
+- ⚙️ **Top Tech Stacks**: Python, Java, Go, AWS, VPS, Docker, Git, Scripting 
 - 🛠️ **Skills**: DevOps, Cloud, Research & Development, Automation, Deployment 
 - 🌏 **Languages**: English, Tamil 
 - 💻 **Hobbies**: Tinkering with Electronics
@@ -49,9 +46,9 @@
 ## 💻 Tech Stack
 
 ## Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 ## Libraries & Frameworks
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=%23white) 
@@ -66,11 +63,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sahithyan04&theme=monokai&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Holopin Badges -->
 
 <!-- Socials -->
 ## 🌐 Socials
